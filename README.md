@@ -4,10 +4,11 @@ _こんにちは git!_
 >**it's mean "hello git!"**
 - [x] $a = {1, 2, 3}$
 - [ ] $P = {x|xは3の倍数}$
-
+$a$
 ———————————————————
-[Qiita](http://qiita.com "Qiita")
->
+
+>[Qiita](http://qiita.com "Qiita")
+
 
 | Left align | Right align | Center align |
 |:-----------|------------:|:------------:|
