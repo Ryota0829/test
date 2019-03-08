@@ -1,14 +1,10 @@
 ###  his is test
 _こんにちは git!_
 
->
-**it's mean "hello git!"**
+>**it's mean "hello git!"**
 - [x] $a = \{1, 2, 3\}$
 - [ ] $P = {x|xは3の倍数}$
-* * *  
-***  
-*****  
-- - -  
+
 ———————————————————
 [Qiita](http://qiita.com "Qiita")
 >
