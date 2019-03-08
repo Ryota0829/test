@@ -3,8 +3,8 @@ import numpy as np
 def sqrt(a):
     return np.sqrt(a)
 
-def write():
-    return print("test")
+def add(a, b):
+    return a + b
 
-def write2():
+def write():
     return print("test")
